@@ -30,3 +30,4 @@ You just need to type your name and name your friend and press the button and st
 
 
 
+Experience the game here : https://mohammedalghamdi3.github.io/tic2/mohammed/frist.html
