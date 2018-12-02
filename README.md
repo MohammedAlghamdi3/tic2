@@ -23,7 +23,7 @@ You just need to type your name and name your friend and press the button and st
 ![](./Screenshots/1.jpg)
 
 ### Game
-![](./Screenshots/2.png)
+![](./Screenshots/2.jpg)
 
 ### Game
 ![](./Screenshots/3.jpg)
