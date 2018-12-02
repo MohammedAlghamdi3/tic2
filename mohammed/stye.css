@@ -1,0 +1,86 @@
+body{
+    background: rgb(231, 236, 238);
+
+    background-image: url("./imag1.jpg");
+    background-repeat: no-repeat, repeat;   
+}
+#weapper{
+    margin-left: 444px;
+    
+
+}
+#nnn{
+    display:inline-flex;
+    margin-left: 444px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+}
+
+#sss{
+    display:inline-flex;
+    margin-left: 444px;
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+
+
+
+
+}
+.contunar{
+    display: flex;
+    display: inline-block;
+    overflow: hidden;
+}
+.square1{
+    width: 120px;
+    height: 110px; 
+    background: rgb(58, 167, 182);
+    margin: 5px;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    color:white;
+    display: flex;
+     
+    
+    
+}
+h1{
+    margin-left: 444px;
+
+}
+#message {
+
+    margin-left: 555px;
+    font-size: 30px;
+    color:rgb(255, 104, 104);
+}
+#result{
+    margin-left: 444px;
+    font-size: 30px;
+}
+
+#two{
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color:rgb(255, 104, 104);
+
+
+}
+#counto{
+    margin-top: 0px;
+
+}
+
+#one{
+    color:rgb(255, 104, 104);
+
+
+}
